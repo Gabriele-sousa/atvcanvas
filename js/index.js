@@ -1,0 +1,21 @@
+const canvas = document.getElementById('canvas');
+const ctx = canvas.getContext('2d');
+ctx.fillStyle='green';
+ctx.fillRect(200,200,300,200);
+
+
+ctx.fillStyle="red";
+ctx.arc(700, 300, 110, 0, Math.PI * 2);
+ctx.fill();
+
+
+ctx.beginPath();
+ctx.lineTo(825,400);
+ctx.lineTo(1000,200);
+ctx.stroke();
+
+ctx.beginPath();
+ctx.lineTo(1205,400);
+ctx.arc(1200, 200, 5, 0, Math.PI, true);
+ctx.lineTo(1195,400);
+ctx.stroke();

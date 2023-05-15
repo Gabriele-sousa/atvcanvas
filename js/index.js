@@ -24,3 +24,7 @@ img.addEventListener('load', function(){
 	ctx.drawImage(img, 900, 300);
 } , false);
 img.src = 'img/myImage.png';
+ctx.lineTo(1205,400);
+ctx.arc(1200, 200, 5, 0, Math.PI, true);
+ctx.lineTo(1195,400);
+ctx.stroke();

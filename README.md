@@ -31,6 +31,7 @@
  <dd>Para a criar a curva foi adicionado um beginPath para iniciar o caminho do desenho, um moveTo com as cordenadas(20, 20), e um bezierCurveTo com as cordenadas (100, 200, 400, 200, 400, 100) para desenhar a curva e por fim foi colocado um stroke para desenhar oque foi definido no path.</dd>
  <ol>Imagem:</ol>
  <dd>Para criar a imagem foi criada uma variavel img, e adicionado um Eventlisterner, e depois colocado um drawImage com as cordenadas (img,900,300) e por fim foi selecionada a imagem com o nome de "myImage.png" na pasta img</dd>
+ <h1>Imagem</h1>
  <h2>Autores</h2>
  Gabriele e Arthur
  

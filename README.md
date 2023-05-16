@@ -32,7 +32,7 @@
  <ol>Imagem:</ol>
  <dd>Para criar a imagem foi criada uma variavel img, e adicionado um Eventlisterner, e depois colocado um drawImage com as cordenadas (img,900,300) e por fim foi selecionada a imagem com o nome de "myImage.png" na pasta img</dd>
  <h1>Imagem</h1>
- <img> img/tela.png </img>
+ <img src="img/tela.png"/>
  <h2>Autores</h2>
  Gabriele e Arthur
  

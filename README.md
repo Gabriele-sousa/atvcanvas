@@ -30,6 +30,7 @@ Para fazer essa atividade, foram utilizados essas etapas:
     *Para criar a imagem foi criada uma variavel img, e adicionado um Eventlisterner, e depois colocado um drawImage com as cordenadas (img,900,300) e por fim foi selecionada a imagem com o nome de "myImage.png" na pasta img
  * Imagem
  <img src="img/tela.png"/>
+ 
  ## Autores 
  Gabriele e Arthur
  
